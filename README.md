@@ -1,33 +1,18 @@
-# Project 2 - Using a Bootstrap Template/Theme
+# Project 3 - Data app with user filter
 
-With this project, you'll demonstrate that you understand how to use a template as the starting point for a project, resolve issues related to relative URLs, use the Dev tools to explore and understand the template, and make required edits.  
-
-You'll create a version of the __Company__ sample theme on the w3schools site.  
+With this project, you'll demonstrate your ability to collect user input, use it to construct an API url, and present sophisticated UI results to the user.  You'll also demonstrate your ability to research and incorporate tags and libraries we've not yet covered.
 
 Check the requirements and the hints, and ask questions in Piazza.
 
 ## Requirements
 
-1. Change the color from the orange to one of the primary UIC colors. 
+1. Use the Bootstrap 4 Jumbotron template.
 
-2. Change "Company" to some made-up company name.
+2. Use the City of Chicago Food Inspection data set.
 
-3. Change the "Services" section from two rows of 3 tiles to one row of 4 tiles.
+3. In the Jumbotron, provide form input elements to let users filter the data by inspection date, facility type, status and zip.  The blue button should display the word __Search__ with a search icon.
 
-4. Change the icons on the 4 services.
-
-5. Change the names of the 4 services.
-
-6. Change the images on the "Portfolio" items.
-
-7. Change the text on the "Portfolio" items.
-
-8. Add another "What Our Customers Say" slide/review, with different content.
-
-9. Add another indicator/~~link~~navigation "dot" for that new slide/review (below the slide set.)
-
-10. Name the file `index.html`, in a folder named `project2`, and make sure it's accessible on GitHub.
-
+4. 
 
 ## Hints
 
